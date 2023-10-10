@@ -1,1 +1,3 @@
-# codespaces-test
+# Github Codespaces Test
+
+A repository testing github codespaces.
